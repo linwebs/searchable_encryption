@@ -1,0 +1,3 @@
+[submodule "SSE"]
+	path = SSE
+	url = https://github.com/markozeman/SSE.git
