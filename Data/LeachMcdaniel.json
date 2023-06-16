@@ -1,0 +1,22 @@
+{
+    "type": "patient",
+    "personal": {
+        "birthDate": "1996/3/5",
+        "firstName": "Leach",
+        "lastName": "Mcdaniel",
+        "address": {
+            "street": "Qixian 3rd Rd.",
+            "houseNumber": "143",
+            "city": "Kaohsiung",
+            "country": "Taiwan",
+            "postCode": "803"
+        }
+    },
+    "health": {
+        "temperature": "35.7",
+        "heartRate": "53",
+        "systolic": "123",
+        "diastolic": "74",
+        "spO2": "98"
+    }
+}

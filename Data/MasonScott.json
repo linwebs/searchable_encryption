@@ -1,0 +1,22 @@
+{
+    "type": "patient",
+    "personal": {
+        "birthDate": "1947/2/3",
+        "firstName": "Mason",
+        "lastName": "Scott",
+        "address": {
+            "street": "Zhonghua St.",
+            "houseNumber": "250",
+            "city": "New Taipei",
+            "country": "Taiwan",
+            "postCode": "221"
+        }
+    },
+    "health": {
+        "temperature": "36.3",
+        "heartRate": "76",
+        "systolic": "141",
+        "diastolic": "82",
+        "spO2": "99"
+    }
+}

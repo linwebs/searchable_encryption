@@ -1,0 +1,22 @@
+{
+    "type": "patient",
+    "personal": {
+        "birthDate": "1976/12/21",
+        "firstName": "Zayden",
+        "lastName": "Lucas",
+        "address": {
+            "street": "Jianguo 4th Rd.",
+            "houseNumber": "21",
+            "city": "Kaohsiung",
+            "country": "Taiwan",
+            "postCode": "803"
+        }
+    },
+    "health": {
+        "temperature": "36.2",
+        "heartRate": "72",
+        "systolic": "134",
+        "diastolic": "76",
+        "spO2": "96"
+    }
+}
