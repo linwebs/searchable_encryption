@@ -2,6 +2,11 @@
 > Linwebs 2023.6 NSYSU CSE Secure Cryptographic Protocol
 
 
-## Website Screenshot
+## Execute
+```shell
+python SSE/src/web.py
+```
 
+
+## Website Screenshot
 ![search](Images/search.png)
