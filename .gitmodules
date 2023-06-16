@@ -1,3 +1,4 @@
 [submodule "SSE"]
 	path = SSE
-	url = https://github.com/markozeman/SSE.git
+	url = https://github.com/linwebs/searchable_symmetric_encryption.git
+	branch = web
